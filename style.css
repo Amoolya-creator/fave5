@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px #c1c1c1;
+}
+
+img {
+    width: 20%;
+    height: auto;
+}
+
+section {
+    background: linear-gradient(#fc8f8f 0%, #8ffcfc 100%);
+    padding: 5px;
+}
+
+.menu {
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.link:hover {
+   
+    background-color: firebrick;
+    cursor: pointer;
+}
+li {
+  display: inline;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+ 
+
